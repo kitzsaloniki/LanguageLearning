@@ -1,0 +1,890 @@
+[
+  {
+    "id": "hello",
+    "partOfSpeech": "phrase",
+    "level": "A0",
+    "topicIds": ["greetings"],
+    "forms": {
+      "de": {
+        "lemma": "hallo"
+      },
+      "el": {
+        "lemma": "γεια σου",
+        "note": {
+          "de": "„Γεια σου“ sagst du zu einer Person, die du duzt. Höflich oder zu mehreren: „γεια σας“. Es heißt auch „tschüss“.",
+          "el": "Το «γεια σου» το λέμε σε ένα άτομο στον ενικό. Ευγενικά ή σε πολλούς: «γεια σας». Το λέμε και όταν φεύγουμε.",
+          "en": "Use “γεια σου” with one person you know well. To be polite or to greet several people, say “γεια σας”. It also means “bye”."
+        }
+      },
+      "en": {
+        "lemma": "hello"
+      }
+    }
+  },
+  {
+    "id": "good-morning",
+    "partOfSpeech": "phrase",
+    "level": "A0",
+    "topicIds": ["greetings"],
+    "forms": {
+      "de": {
+        "lemma": "guten Morgen"
+      },
+      "el": {
+        "lemma": "καλημέρα"
+      },
+      "en": {
+        "lemma": "good morning"
+      }
+    }
+  },
+  {
+    "id": "good-evening",
+    "partOfSpeech": "phrase",
+    "level": "A0",
+    "topicIds": ["greetings"],
+    "forms": {
+      "de": {
+        "lemma": "guten Abend"
+      },
+      "el": {
+        "lemma": "καλησπέρα"
+      },
+      "en": {
+        "lemma": "good evening"
+      }
+    }
+  },
+  {
+    "id": "good-night",
+    "partOfSpeech": "phrase",
+    "level": "A0",
+    "topicIds": ["greetings"],
+    "forms": {
+      "de": {
+        "lemma": "gute Nacht"
+      },
+      "el": {
+        "lemma": "καληνύχτα"
+      },
+      "en": {
+        "lemma": "good night"
+      }
+    }
+  },
+  {
+    "id": "how-are-you",
+    "partOfSpeech": "phrase",
+    "level": "A0",
+    "topicIds": ["greetings"],
+    "forms": {
+      "de": {
+        "lemma": "Wie geht's?"
+      },
+      "el": {
+        "lemma": "Τι κάνεις;"
+      },
+      "en": {
+        "lemma": "How are you?"
+      }
+    }
+  },
+  {
+    "id": "thank-you",
+    "partOfSpeech": "phrase",
+    "level": "A0",
+    "topicIds": ["greetings"],
+    "forms": {
+      "de": {
+        "lemma": "danke"
+      },
+      "el": {
+        "lemma": "ευχαριστώ"
+      },
+      "en": {
+        "lemma": "thank you"
+      }
+    }
+  },
+  {
+    "id": "please",
+    "partOfSpeech": "phrase",
+    "level": "A0",
+    "topicIds": ["greetings"],
+    "forms": {
+      "de": {
+        "lemma": "bitte",
+        "note": {
+          "de": "„Bitte“ heißt auch „gern geschehen“, als Antwort auf „danke“.",
+          "el": "Το «bitte» το λέμε και ως απάντηση στο «danke», όπως το «παρακαλώ».",
+          "en": "“Bitte” also means “you're welcome” as a reply to “danke”."
+        }
+      },
+      "el": {
+        "lemma": "παρακαλώ",
+        "note": {
+          "de": "„Παρακαλώ“ heißt auch „gern geschehen“. Viele melden sich so auch am Telefon.",
+          "el": "Το «παρακαλώ» το λέμε και ως απάντηση στο «ευχαριστώ» και όταν σηκώνουμε το τηλέφωνο.",
+          "en": "“Παρακαλώ” also means “you're welcome”, and many people answer the phone with it."
+        }
+      },
+      "en": {
+        "lemma": "please"
+      }
+    }
+  },
+  {
+    "id": "yes",
+    "partOfSpeech": "phrase",
+    "level": "A0",
+    "topicIds": ["greetings"],
+    "forms": {
+      "de": {
+        "lemma": "ja"
+      },
+      "el": {
+        "lemma": "ναι",
+        "note": {
+          "de": "Vorsicht: „ναι“ klingt fast wie „nee“, heißt aber „ja“.",
+          "el": "Προσοχή: το «ναι» μοιάζει με το γερμανικό «nein», αλλά σημαίνει το αντίθετο.",
+          "en": "Careful: “ναι” sounds like “nay”, but it means “yes”."
+        }
+      },
+      "en": {
+        "lemma": "yes"
+      }
+    }
+  },
+  {
+    "id": "no",
+    "partOfSpeech": "phrase",
+    "level": "A0",
+    "topicIds": ["greetings"],
+    "forms": {
+      "de": {
+        "lemma": "nein"
+      },
+      "el": {
+        "lemma": "όχι"
+      },
+      "en": {
+        "lemma": "no"
+      }
+    }
+  },
+  {
+    "id": "goodbye",
+    "partOfSpeech": "phrase",
+    "level": "A0",
+    "topicIds": ["greetings"],
+    "forms": {
+      "de": {
+        "lemma": "tschüss"
+      },
+      "el": {
+        "lemma": "αντίο"
+      },
+      "en": {
+        "lemma": "goodbye"
+      }
+    }
+  },
+  {
+    "id": "i",
+    "partOfSpeech": "pronoun",
+    "level": "A0",
+    "topicIds": ["people"],
+    "forms": {
+      "de": {
+        "lemma": "ich"
+      },
+      "el": {
+        "lemma": "εγώ",
+        "note": {
+          "de": "Im Griechischen fällt „εγώ“ meist weg, weil die Verbform die Person schon zeigt: „είμαι“ = „ich bin“.",
+          "el": "Συνήθως παραλείπουμε το «εγώ», γιατί το ρήμα δείχνει ήδη το πρόσωπο: «είμαι».",
+          "en": "Greek usually drops “εγώ”, because the verb already shows the person: “είμαι” = “I am”."
+        }
+      },
+      "en": {
+        "lemma": "I"
+      }
+    }
+  },
+  {
+    "id": "you",
+    "partOfSpeech": "pronoun",
+    "level": "A0",
+    "topicIds": ["people"],
+    "forms": {
+      "de": {
+        "lemma": "du",
+        "note": {
+          "de": "Für eine Person, die du duzt. Höflich: „Sie“.",
+          "el": "Για ένα άτομο στον ενικό. Ευγενικά: «Sie».",
+          "en": "For one person you know well. Polite form: “Sie”."
+        }
+      },
+      "el": {
+        "lemma": "εσύ",
+        "note": {
+          "de": "Für eine Person, die du duzt. Höflich oder zu mehreren: „εσείς“.",
+          "el": "Για ένα άτομο στον ενικό. Ευγενικά ή για πολλούς: «εσείς».",
+          "en": "For one person you know well. Polite or plural: “εσείς”."
+        }
+      },
+      "en": {
+        "lemma": "you"
+      }
+    }
+  },
+  {
+    "id": "name",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["people"],
+    "forms": {
+      "de": {
+        "lemma": "Name",
+        "gender": "masculine",
+        "plural": "Namen"
+      },
+      "el": {
+        "lemma": "όνομα",
+        "gender": "neuter",
+        "plural": "ονόματα"
+      },
+      "en": {
+        "lemma": "name",
+        "plural": "names"
+      }
+    }
+  },
+  {
+    "id": "friend",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["people"],
+    "forms": {
+      "de": {
+        "lemma": "Freund",
+        "gender": "masculine",
+        "plural": "Freunde",
+        "note": {
+          "de": "Für eine Frau: „die Freundin“. „Mein Freund“ kann auch den Partner meinen.",
+          "el": "Για γυναίκα: «die Freundin». Το «mein Freund» μπορεί να σημαίνει και τον σύντροφο.",
+          "en": "For a woman: “die Freundin”. “Mein Freund” can also mean “my boyfriend”."
+        }
+      },
+      "el": {
+        "lemma": "φίλος",
+        "gender": "masculine",
+        "plural": "φίλοι",
+        "note": {
+          "de": "Für eine Frau: „η φίλη“.",
+          "el": "Για γυναίκα: «η φίλη».",
+          "en": "For a woman: “η φίλη”."
+        }
+      },
+      "en": {
+        "lemma": "friend",
+        "plural": "friends"
+      }
+    }
+  },
+  {
+    "id": "mother",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["people"],
+    "forms": {
+      "de": {
+        "lemma": "Mutter",
+        "gender": "feminine",
+        "plural": "Mütter"
+      },
+      "el": {
+        "lemma": "μητέρα",
+        "gender": "feminine",
+        "plural": "μητέρες"
+      },
+      "en": {
+        "lemma": "mother",
+        "plural": "mothers"
+      }
+    }
+  },
+  {
+    "id": "father",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["people"],
+    "forms": {
+      "de": {
+        "lemma": "Vater",
+        "gender": "masculine",
+        "plural": "Väter"
+      },
+      "el": {
+        "lemma": "πατέρας",
+        "gender": "masculine",
+        "plural": "πατέρες"
+      },
+      "en": {
+        "lemma": "father",
+        "plural": "fathers"
+      }
+    }
+  },
+  {
+    "id": "man",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["people"],
+    "forms": {
+      "de": {
+        "lemma": "Mann",
+        "gender": "masculine",
+        "plural": "Männer"
+      },
+      "el": {
+        "lemma": "άντρας",
+        "gender": "masculine",
+        "plural": "άντρες",
+        "note": {
+          "de": "Wird auch „άνδρας“ geschrieben.",
+          "el": "Γράφεται και «άνδρας».",
+          "en": "Also spelled “άνδρας”."
+        }
+      },
+      "en": {
+        "lemma": "man",
+        "plural": "men"
+      }
+    }
+  },
+  {
+    "id": "woman",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["people"],
+    "forms": {
+      "de": {
+        "lemma": "Frau",
+        "gender": "feminine",
+        "plural": "Frauen"
+      },
+      "el": {
+        "lemma": "γυναίκα",
+        "gender": "feminine",
+        "plural": "γυναίκες"
+      },
+      "en": {
+        "lemma": "woman",
+        "plural": "women"
+      }
+    }
+  },
+  {
+    "id": "child",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["people"],
+    "forms": {
+      "de": {
+        "lemma": "Kind",
+        "gender": "neuter",
+        "plural": "Kinder"
+      },
+      "el": {
+        "lemma": "παιδί",
+        "gender": "neuter",
+        "plural": "παιδιά"
+      },
+      "en": {
+        "lemma": "child",
+        "plural": "children"
+      }
+    }
+  },
+  {
+    "id": "be",
+    "partOfSpeech": "verb",
+    "level": "A0",
+    "topicIds": ["people"],
+    "forms": {
+      "de": {
+        "lemma": "sein"
+      },
+      "el": {
+        "lemma": "είμαι"
+      },
+      "en": {
+        "lemma": "be"
+      }
+    }
+  },
+  {
+    "id": "have",
+    "partOfSpeech": "verb",
+    "level": "A0",
+    "topicIds": ["people"],
+    "forms": {
+      "de": {
+        "lemma": "haben"
+      },
+      "el": {
+        "lemma": "έχω"
+      },
+      "en": {
+        "lemma": "have"
+      }
+    }
+  },
+  {
+    "id": "live",
+    "partOfSpeech": "verb",
+    "level": "A0",
+    "topicIds": ["home-everyday"],
+    "forms": {
+      "de": {
+        "lemma": "wohnen"
+      },
+      "el": {
+        "lemma": "μένω"
+      },
+      "en": {
+        "lemma": "live"
+      }
+    }
+  },
+  {
+    "id": "water",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["food-drink"],
+    "forms": {
+      "de": {
+        "lemma": "Wasser",
+        "gender": "neuter"
+      },
+      "el": {
+        "lemma": "νερό",
+        "gender": "neuter"
+      },
+      "en": {
+        "lemma": "water"
+      }
+    }
+  },
+  {
+    "id": "coffee",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["food-drink"],
+    "forms": {
+      "de": {
+        "lemma": "Kaffee",
+        "gender": "masculine"
+      },
+      "el": {
+        "lemma": "καφές",
+        "gender": "masculine"
+      },
+      "en": {
+        "lemma": "coffee"
+      }
+    }
+  },
+  {
+    "id": "tea",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["food-drink"],
+    "forms": {
+      "de": {
+        "lemma": "Tee",
+        "gender": "masculine"
+      },
+      "el": {
+        "lemma": "τσάι",
+        "gender": "neuter"
+      },
+      "en": {
+        "lemma": "tea"
+      }
+    }
+  },
+  {
+    "id": "wine",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["food-drink"],
+    "forms": {
+      "de": {
+        "lemma": "Wein",
+        "gender": "masculine"
+      },
+      "el": {
+        "lemma": "κρασί",
+        "gender": "neuter"
+      },
+      "en": {
+        "lemma": "wine"
+      }
+    }
+  },
+  {
+    "id": "bread",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["food-drink"],
+    "forms": {
+      "de": {
+        "lemma": "Brot",
+        "gender": "neuter"
+      },
+      "el": {
+        "lemma": "ψωμί",
+        "gender": "neuter"
+      },
+      "en": {
+        "lemma": "bread"
+      }
+    }
+  },
+  {
+    "id": "cheese",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["food-drink"],
+    "forms": {
+      "de": {
+        "lemma": "Käse",
+        "gender": "masculine"
+      },
+      "el": {
+        "lemma": "τυρί",
+        "gender": "neuter"
+      },
+      "en": {
+        "lemma": "cheese"
+      }
+    }
+  },
+  {
+    "id": "apple",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["food-drink"],
+    "forms": {
+      "de": {
+        "lemma": "Apfel",
+        "gender": "masculine",
+        "plural": "Äpfel"
+      },
+      "el": {
+        "lemma": "μήλο",
+        "gender": "neuter",
+        "plural": "μήλα"
+      },
+      "en": {
+        "lemma": "apple",
+        "plural": "apples"
+      }
+    }
+  },
+  {
+    "id": "would-like",
+    "partOfSpeech": "verb",
+    "level": "A0",
+    "topicIds": ["food-drink"],
+    "forms": {
+      "de": {
+        "lemma": "möchten"
+      },
+      "el": {
+        "lemma": "θέλω",
+        "note": {
+          "de": "„Θέλω“ heißt „ich will“. Mit „παρακαλώ“ ist es eine ganz normale, höfliche Bestellung.",
+          "el": "Το «θέλω» με το «παρακαλώ» είναι ένας απλός και ευγενικός τρόπος να παραγγείλουμε.",
+          "en": "“Θέλω” means “I want”. Together with “παρακαλώ” it is a normal, polite way to order."
+        }
+      },
+      "en": {
+        "lemma": "would like"
+      }
+    }
+  },
+  {
+    "id": "drink",
+    "partOfSpeech": "verb",
+    "level": "A0",
+    "topicIds": ["food-drink"],
+    "forms": {
+      "de": {
+        "lemma": "trinken"
+      },
+      "el": {
+        "lemma": "πίνω"
+      },
+      "en": {
+        "lemma": "drink"
+      }
+    }
+  },
+  {
+    "id": "eat",
+    "partOfSpeech": "verb",
+    "level": "A0",
+    "topicIds": ["food-drink"],
+    "forms": {
+      "de": {
+        "lemma": "essen"
+      },
+      "el": {
+        "lemma": "τρώω"
+      },
+      "en": {
+        "lemma": "eat"
+      }
+    }
+  },
+  {
+    "id": "good",
+    "partOfSpeech": "adjective",
+    "level": "A0",
+    "topicIds": ["food-drink"],
+    "forms": {
+      "de": {
+        "lemma": "gut"
+      },
+      "el": {
+        "lemma": "καλός",
+        "note": {
+          "de": "Die Endung passt sich dem Geschlecht an: καλός, καλή, καλό.",
+          "el": "Η κατάληξη αλλάζει με το γένος: καλός, καλή, καλό.",
+          "en": "The ending changes with gender: καλός, καλή, καλό."
+        }
+      },
+      "en": {
+        "lemma": "good"
+      }
+    }
+  },
+  {
+    "id": "house",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["home-everyday"],
+    "forms": {
+      "de": {
+        "lemma": "Haus",
+        "gender": "neuter",
+        "plural": "Häuser"
+      },
+      "el": {
+        "lemma": "σπίτι",
+        "gender": "neuter",
+        "plural": "σπίτια"
+      },
+      "en": {
+        "lemma": "house",
+        "plural": "houses"
+      }
+    }
+  },
+  {
+    "id": "city",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["home-everyday"],
+    "forms": {
+      "de": {
+        "lemma": "Stadt",
+        "gender": "feminine",
+        "plural": "Städte"
+      },
+      "el": {
+        "lemma": "πόλη",
+        "gender": "feminine",
+        "plural": "πόλεις"
+      },
+      "en": {
+        "lemma": "city",
+        "plural": "cities"
+      }
+    }
+  },
+  {
+    "id": "sea",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["home-everyday"],
+    "forms": {
+      "de": {
+        "lemma": "Meer",
+        "gender": "neuter",
+        "plural": "Meere"
+      },
+      "el": {
+        "lemma": "θάλασσα",
+        "gender": "feminine",
+        "plural": "θάλασσες"
+      },
+      "en": {
+        "lemma": "sea",
+        "plural": "seas"
+      }
+    }
+  },
+  {
+    "id": "book",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["home-everyday"],
+    "forms": {
+      "de": {
+        "lemma": "Buch",
+        "gender": "neuter",
+        "plural": "Bücher"
+      },
+      "el": {
+        "lemma": "βιβλίο",
+        "gender": "neuter",
+        "plural": "βιβλία"
+      },
+      "en": {
+        "lemma": "book",
+        "plural": "books"
+      }
+    }
+  },
+  {
+    "id": "cat",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["home-everyday"],
+    "forms": {
+      "de": {
+        "lemma": "Katze",
+        "gender": "feminine",
+        "plural": "Katzen"
+      },
+      "el": {
+        "lemma": "γάτα",
+        "gender": "feminine",
+        "plural": "γάτες"
+      },
+      "en": {
+        "lemma": "cat",
+        "plural": "cats"
+      }
+    }
+  },
+  {
+    "id": "dog",
+    "partOfSpeech": "noun",
+    "level": "A0",
+    "topicIds": ["home-everyday"],
+    "forms": {
+      "de": {
+        "lemma": "Hund",
+        "gender": "masculine",
+        "plural": "Hunde"
+      },
+      "el": {
+        "lemma": "σκύλος",
+        "gender": "masculine",
+        "plural": "σκύλοι"
+      },
+      "en": {
+        "lemma": "dog",
+        "plural": "dogs"
+      }
+    }
+  },
+  {
+    "id": "big",
+    "partOfSpeech": "adjective",
+    "level": "A0",
+    "topicIds": ["home-everyday"],
+    "forms": {
+      "de": {
+        "lemma": "groß"
+      },
+      "el": {
+        "lemma": "μεγάλος",
+        "note": {
+          "de": "Die Endung passt sich dem Geschlecht an: μεγάλος, μεγάλη, μεγάλο.",
+          "el": "Η κατάληξη αλλάζει με το γένος: μεγάλος, μεγάλη, μεγάλο.",
+          "en": "The ending changes with gender: μεγάλος, μεγάλη, μεγάλο."
+        }
+      },
+      "en": {
+        "lemma": "big"
+      }
+    }
+  },
+  {
+    "id": "small",
+    "partOfSpeech": "adjective",
+    "level": "A0",
+    "topicIds": ["home-everyday"],
+    "forms": {
+      "de": {
+        "lemma": "klein"
+      },
+      "el": {
+        "lemma": "μικρός",
+        "note": {
+          "de": "Die Endung passt sich dem Geschlecht an: μικρός, μικρή, μικρό.",
+          "el": "Η κατάληξη αλλάζει με το γένος: μικρός, μικρή, μικρό.",
+          "en": "The ending changes with gender: μικρός, μικρή, μικρό."
+        }
+      },
+      "en": {
+        "lemma": "small"
+      }
+    }
+  },
+  {
+    "id": "here",
+    "partOfSpeech": "adverb",
+    "level": "A0",
+    "topicIds": ["home-everyday"],
+    "forms": {
+      "de": {
+        "lemma": "hier"
+      },
+      "el": {
+        "lemma": "εδώ"
+      },
+      "en": {
+        "lemma": "here"
+      }
+    }
+  },
+  {
+    "id": "and",
+    "partOfSpeech": "conjunction",
+    "level": "A0",
+    "topicIds": ["home-everyday"],
+    "forms": {
+      "de": {
+        "lemma": "und"
+      },
+      "el": {
+        "lemma": "και",
+        "note": {
+          "de": "Vor Vokalen oft verkürzt zu „κι“: „κι εσύ“.",
+          "el": "Πριν από φωνήεν γίνεται συχνά «κι»: «κι εσύ».",
+          "en": "Before a vowel it often becomes “κι”: “κι εσύ”."
+        }
+      },
+      "en": {
+        "lemma": "and"
+      }
+    }
+  }
+]

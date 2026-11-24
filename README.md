@@ -40,6 +40,7 @@ Without them the app runs fully locally.
 ```
 src/
   app/            App root and routes
+  content/        Language-neutral learning content, loaders and validation
   components/     Shared UI (ui/) and layout (layout/) components
   features/       Screens grouped by feature (home, settings, ...)
   i18n/           i18next setup and locale files (en.json is the reference)
@@ -58,3 +59,5 @@ src/
 - Inter is the UI font, Literata the reading font (`.reading-text`); both cover Greek.
 - Code, comments, commits and technical docs are written in English.
 - Prefer small, focused functions and descriptive names.
+- Learning content is language-neutral and validated by tests, see
+  [docs/content-model.md](docs/content-model.md).
