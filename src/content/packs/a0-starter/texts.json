@@ -1,0 +1,37 @@
+[
+  {
+    "id": "at-the-cafe",
+    "level": "A0",
+    "topicIds": ["food-drink"],
+    "title": {
+      "de": "Im Café",
+      "el": "Στην καφετέρια",
+      "en": "At the café"
+    },
+    "sentenceIds": [
+      "anna-is-at-the-cafe",
+      "she-is-here-with-nikos",
+      "a-coffee-please",
+      "nikos-drinks-tea",
+      "the-coffee-is-very-good"
+    ]
+  },
+  {
+    "id": "i-am-eleni",
+    "level": "A0",
+    "topicIds": ["people"],
+    "title": {
+      "de": "Ich bin Eleni",
+      "el": "Είμαι η Ελένη",
+      "en": "I am Eleni"
+    },
+    "sentenceIds": [
+      "my-name-is-eleni",
+      "i-live-in-thessaloniki",
+      "the-city-is-by-the-sea",
+      "mother-and-father",
+      "we-have-a-cat",
+      "the-cat-is-small"
+    ]
+  }
+]

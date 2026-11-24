@@ -1,0 +1,1646 @@
+[
+  {
+    "id": "hello-i-am-anna",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Hallo! Ich bin Anna.",
+        "wordLinks": [
+          {
+            "wordId": "hello",
+            "surface": "Hallo"
+          },
+          {
+            "wordId": "i",
+            "surface": "Ich"
+          },
+          {
+            "wordId": "be",
+            "surface": "bin"
+          }
+        ]
+      },
+      "el": {
+        "text": "Γεια σου! Είμαι η Άννα.",
+        "wordLinks": [
+          {
+            "wordId": "hello",
+            "surface": "Γεια σου"
+          },
+          {
+            "wordId": "be",
+            "surface": "Είμαι"
+          }
+        ]
+      },
+      "en": {
+        "text": "Hello! I am Anna.",
+        "wordLinks": [
+          {
+            "wordId": "hello",
+            "surface": "Hello"
+          },
+          {
+            "wordId": "i",
+            "surface": "I"
+          },
+          {
+            "wordId": "be",
+            "surface": "am"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "i-am-nikos",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Ich bin Nikos.",
+        "wordLinks": [
+          {
+            "wordId": "i",
+            "surface": "Ich"
+          },
+          {
+            "wordId": "be",
+            "surface": "bin"
+          }
+        ]
+      },
+      "el": {
+        "text": "Εγώ είμαι ο Νίκος.",
+        "wordLinks": [
+          {
+            "wordId": "i",
+            "surface": "Εγώ"
+          },
+          {
+            "wordId": "be",
+            "surface": "είμαι"
+          }
+        ]
+      },
+      "en": {
+        "text": "I am Nikos.",
+        "wordLinks": [
+          {
+            "wordId": "i",
+            "surface": "I"
+          },
+          {
+            "wordId": "be",
+            "surface": "am"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "good-morning-how-are-you",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Guten Morgen! Wie geht's?",
+        "wordLinks": [
+          {
+            "wordId": "good-morning",
+            "surface": "Guten Morgen"
+          },
+          {
+            "wordId": "how-are-you",
+            "surface": "Wie geht's"
+          }
+        ]
+      },
+      "el": {
+        "text": "Καλημέρα! Τι κάνεις;",
+        "wordLinks": [
+          {
+            "wordId": "good-morning",
+            "surface": "Καλημέρα"
+          },
+          {
+            "wordId": "how-are-you",
+            "surface": "Τι κάνεις"
+          }
+        ]
+      },
+      "en": {
+        "text": "Good morning! How are you?",
+        "wordLinks": [
+          {
+            "wordId": "good-morning",
+            "surface": "Good morning"
+          },
+          {
+            "wordId": "how-are-you",
+            "surface": "How are you"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fine-thanks-and-you",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Gut, danke. Und du?",
+        "wordLinks": [
+          {
+            "wordId": "thank-you",
+            "surface": "danke"
+          },
+          {
+            "wordId": "and",
+            "surface": "Und"
+          },
+          {
+            "wordId": "you",
+            "surface": "du"
+          }
+        ]
+      },
+      "el": {
+        "text": "Καλά, ευχαριστώ. Κι εσύ;",
+        "wordLinks": [
+          {
+            "wordId": "thank-you",
+            "surface": "ευχαριστώ"
+          },
+          {
+            "wordId": "and",
+            "surface": "Κι"
+          },
+          {
+            "wordId": "you",
+            "surface": "εσύ"
+          }
+        ]
+      },
+      "en": {
+        "text": "Fine, thank you. And you?",
+        "wordLinks": [
+          {
+            "wordId": "thank-you",
+            "surface": "thank you"
+          },
+          {
+            "wordId": "and",
+            "surface": "And"
+          },
+          {
+            "wordId": "you",
+            "surface": "you"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "good-evening-maria",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Guten Abend, Maria!",
+        "wordLinks": [
+          {
+            "wordId": "good-evening",
+            "surface": "Guten Abend"
+          }
+        ]
+      },
+      "el": {
+        "text": "Καλησπέρα, Μαρία!",
+        "wordLinks": [
+          {
+            "wordId": "good-evening",
+            "surface": "Καλησπέρα"
+          }
+        ]
+      },
+      "en": {
+        "text": "Good evening, Maria!",
+        "wordLinks": [
+          {
+            "wordId": "good-evening",
+            "surface": "Good evening"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "good-night-mum",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Gute Nacht, Mama.",
+        "wordLinks": [
+          {
+            "wordId": "good-night",
+            "surface": "Gute Nacht"
+          }
+        ]
+      },
+      "el": {
+        "text": "Καληνύχτα, μαμά.",
+        "wordLinks": [
+          {
+            "wordId": "good-night",
+            "surface": "Καληνύχτα"
+          }
+        ]
+      },
+      "en": {
+        "text": "Good night, Mum.",
+        "wordLinks": [
+          {
+            "wordId": "good-night",
+            "surface": "Good night"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "yes-please",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Ja, bitte.",
+        "wordLinks": [
+          {
+            "wordId": "yes",
+            "surface": "Ja"
+          },
+          {
+            "wordId": "please",
+            "surface": "bitte"
+          }
+        ]
+      },
+      "el": {
+        "text": "Ναι, παρακαλώ.",
+        "wordLinks": [
+          {
+            "wordId": "yes",
+            "surface": "Ναι"
+          },
+          {
+            "wordId": "please",
+            "surface": "παρακαλώ"
+          }
+        ]
+      },
+      "en": {
+        "text": "Yes, please.",
+        "wordLinks": [
+          {
+            "wordId": "yes",
+            "surface": "Yes"
+          },
+          {
+            "wordId": "please",
+            "surface": "please"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "no-thank-you",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Nein, danke.",
+        "wordLinks": [
+          {
+            "wordId": "no",
+            "surface": "Nein"
+          },
+          {
+            "wordId": "thank-you",
+            "surface": "danke"
+          }
+        ]
+      },
+      "el": {
+        "text": "Όχι, ευχαριστώ.",
+        "wordLinks": [
+          {
+            "wordId": "no",
+            "surface": "Όχι"
+          },
+          {
+            "wordId": "thank-you",
+            "surface": "ευχαριστώ"
+          }
+        ]
+      },
+      "en": {
+        "text": "No, thank you.",
+        "wordLinks": [
+          {
+            "wordId": "no",
+            "surface": "No"
+          },
+          {
+            "wordId": "thank-you",
+            "surface": "thank you"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "goodbye-anna",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Tschüss, Anna!",
+        "wordLinks": [
+          {
+            "wordId": "goodbye",
+            "surface": "Tschüss"
+          }
+        ]
+      },
+      "el": {
+        "text": "Αντίο, Άννα!",
+        "wordLinks": [
+          {
+            "wordId": "goodbye",
+            "surface": "Αντίο"
+          }
+        ]
+      },
+      "en": {
+        "text": "Goodbye, Anna!",
+        "wordLinks": [
+          {
+            "wordId": "goodbye",
+            "surface": "Goodbye"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "my-name-is-eleni",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Mein Name ist Eleni.",
+        "wordLinks": [
+          {
+            "wordId": "name",
+            "surface": "Name"
+          },
+          {
+            "wordId": "be",
+            "surface": "ist"
+          }
+        ]
+      },
+      "el": {
+        "text": "Το όνομά μου είναι Ελένη.",
+        "wordLinks": [
+          {
+            "wordId": "name",
+            "surface": "όνομά"
+          },
+          {
+            "wordId": "be",
+            "surface": "είναι"
+          }
+        ]
+      },
+      "en": {
+        "text": "My name is Eleni.",
+        "wordLinks": [
+          {
+            "wordId": "name",
+            "surface": "name"
+          },
+          {
+            "wordId": "be",
+            "surface": "is"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mother-and-father",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Das ist meine Mutter und das ist mein Vater.",
+        "wordLinks": [
+          {
+            "wordId": "mother",
+            "surface": "Mutter"
+          },
+          {
+            "wordId": "and",
+            "surface": "und"
+          },
+          {
+            "wordId": "father",
+            "surface": "Vater"
+          },
+          {
+            "wordId": "be",
+            "surface": "ist"
+          }
+        ]
+      },
+      "el": {
+        "text": "Αυτή είναι η μητέρα μου και αυτός είναι ο πατέρας μου.",
+        "wordLinks": [
+          {
+            "wordId": "mother",
+            "surface": "μητέρα"
+          },
+          {
+            "wordId": "and",
+            "surface": "και"
+          },
+          {
+            "wordId": "father",
+            "surface": "πατέρας"
+          },
+          {
+            "wordId": "be",
+            "surface": "είναι"
+          }
+        ]
+      },
+      "en": {
+        "text": "This is my mother and this is my father.",
+        "wordLinks": [
+          {
+            "wordId": "mother",
+            "surface": "mother"
+          },
+          {
+            "wordId": "and",
+            "surface": "and"
+          },
+          {
+            "wordId": "father",
+            "surface": "father"
+          },
+          {
+            "wordId": "be",
+            "surface": "is"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "nikos-is-my-friend",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Nikos ist mein Freund.",
+        "wordLinks": [
+          {
+            "wordId": "friend",
+            "surface": "Freund"
+          },
+          {
+            "wordId": "be",
+            "surface": "ist"
+          }
+        ]
+      },
+      "el": {
+        "text": "Ο Νίκος είναι φίλος μου.",
+        "wordLinks": [
+          {
+            "wordId": "friend",
+            "surface": "φίλος"
+          },
+          {
+            "wordId": "be",
+            "surface": "είναι"
+          }
+        ]
+      },
+      "en": {
+        "text": "Nikos is my friend.",
+        "wordLinks": [
+          {
+            "wordId": "friend",
+            "surface": "friend"
+          },
+          {
+            "wordId": "be",
+            "surface": "is"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "the-child-is-small",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Das Kind ist klein.",
+        "wordLinks": [
+          {
+            "wordId": "child",
+            "surface": "Kind"
+          },
+          {
+            "wordId": "be",
+            "surface": "ist"
+          },
+          {
+            "wordId": "small",
+            "surface": "klein"
+          }
+        ]
+      },
+      "el": {
+        "text": "Το παιδί είναι μικρό.",
+        "wordLinks": [
+          {
+            "wordId": "child",
+            "surface": "παιδί"
+          },
+          {
+            "wordId": "be",
+            "surface": "είναι"
+          },
+          {
+            "wordId": "small",
+            "surface": "μικρό"
+          }
+        ]
+      },
+      "en": {
+        "text": "The child is small.",
+        "wordLinks": [
+          {
+            "wordId": "child",
+            "surface": "child"
+          },
+          {
+            "wordId": "be",
+            "surface": "is"
+          },
+          {
+            "wordId": "small",
+            "surface": "small"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "man-and-woman-live-here",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Der Mann und die Frau wohnen hier.",
+        "wordLinks": [
+          {
+            "wordId": "man",
+            "surface": "Mann"
+          },
+          {
+            "wordId": "and",
+            "surface": "und"
+          },
+          {
+            "wordId": "woman",
+            "surface": "Frau"
+          },
+          {
+            "wordId": "live",
+            "surface": "wohnen"
+          },
+          {
+            "wordId": "here",
+            "surface": "hier"
+          }
+        ]
+      },
+      "el": {
+        "text": "Ο άντρας και η γυναίκα μένουν εδώ.",
+        "wordLinks": [
+          {
+            "wordId": "man",
+            "surface": "άντρας"
+          },
+          {
+            "wordId": "and",
+            "surface": "και"
+          },
+          {
+            "wordId": "woman",
+            "surface": "γυναίκα"
+          },
+          {
+            "wordId": "live",
+            "surface": "μένουν"
+          },
+          {
+            "wordId": "here",
+            "surface": "εδώ"
+          }
+        ]
+      },
+      "en": {
+        "text": "The man and the woman live here.",
+        "wordLinks": [
+          {
+            "wordId": "man",
+            "surface": "man"
+          },
+          {
+            "wordId": "and",
+            "surface": "and"
+          },
+          {
+            "wordId": "woman",
+            "surface": "woman"
+          },
+          {
+            "wordId": "live",
+            "surface": "live"
+          },
+          {
+            "wordId": "here",
+            "surface": "here"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "i-have-a-dog",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Ich habe einen Hund.",
+        "wordLinks": [
+          {
+            "wordId": "i",
+            "surface": "Ich"
+          },
+          {
+            "wordId": "have",
+            "surface": "habe"
+          },
+          {
+            "wordId": "dog",
+            "surface": "Hund"
+          }
+        ]
+      },
+      "el": {
+        "text": "Έχω έναν σκύλο.",
+        "wordLinks": [
+          {
+            "wordId": "have",
+            "surface": "Έχω"
+          },
+          {
+            "wordId": "dog",
+            "surface": "σκύλο"
+          }
+        ]
+      },
+      "en": {
+        "text": "I have a dog.",
+        "wordLinks": [
+          {
+            "wordId": "i",
+            "surface": "I"
+          },
+          {
+            "wordId": "have",
+            "surface": "have"
+          },
+          {
+            "wordId": "dog",
+            "surface": "dog"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "the-cat-is-here",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Die Katze ist hier.",
+        "wordLinks": [
+          {
+            "wordId": "cat",
+            "surface": "Katze"
+          },
+          {
+            "wordId": "be",
+            "surface": "ist"
+          },
+          {
+            "wordId": "here",
+            "surface": "hier"
+          }
+        ]
+      },
+      "el": {
+        "text": "Η γάτα είναι εδώ.",
+        "wordLinks": [
+          {
+            "wordId": "cat",
+            "surface": "γάτα"
+          },
+          {
+            "wordId": "be",
+            "surface": "είναι"
+          },
+          {
+            "wordId": "here",
+            "surface": "εδώ"
+          }
+        ]
+      },
+      "en": {
+        "text": "The cat is here.",
+        "wordLinks": [
+          {
+            "wordId": "cat",
+            "surface": "cat"
+          },
+          {
+            "wordId": "be",
+            "surface": "is"
+          },
+          {
+            "wordId": "here",
+            "surface": "here"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "a-coffee-please",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Ich möchte einen Kaffee, bitte.",
+        "wordLinks": [
+          {
+            "wordId": "i",
+            "surface": "Ich"
+          },
+          {
+            "wordId": "would-like",
+            "surface": "möchte"
+          },
+          {
+            "wordId": "coffee",
+            "surface": "Kaffee"
+          },
+          {
+            "wordId": "please",
+            "surface": "bitte"
+          }
+        ]
+      },
+      "el": {
+        "text": "Θέλω έναν καφέ, παρακαλώ.",
+        "wordLinks": [
+          {
+            "wordId": "would-like",
+            "surface": "Θέλω"
+          },
+          {
+            "wordId": "coffee",
+            "surface": "καφέ"
+          },
+          {
+            "wordId": "please",
+            "surface": "παρακαλώ"
+          }
+        ]
+      },
+      "en": {
+        "text": "I would like a coffee, please.",
+        "wordLinks": [
+          {
+            "wordId": "i",
+            "surface": "I"
+          },
+          {
+            "wordId": "would-like",
+            "surface": "would like"
+          },
+          {
+            "wordId": "coffee",
+            "surface": "coffee"
+          },
+          {
+            "wordId": "please",
+            "surface": "please"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "i-drink-water",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Ich trinke Wasser.",
+        "wordLinks": [
+          {
+            "wordId": "i",
+            "surface": "Ich"
+          },
+          {
+            "wordId": "drink",
+            "surface": "trinke"
+          },
+          {
+            "wordId": "water",
+            "surface": "Wasser"
+          }
+        ]
+      },
+      "el": {
+        "text": "Πίνω νερό.",
+        "wordLinks": [
+          {
+            "wordId": "drink",
+            "surface": "Πίνω"
+          },
+          {
+            "wordId": "water",
+            "surface": "νερό"
+          }
+        ]
+      },
+      "en": {
+        "text": "I drink water.",
+        "wordLinks": [
+          {
+            "wordId": "i",
+            "surface": "I"
+          },
+          {
+            "wordId": "drink",
+            "surface": "drink"
+          },
+          {
+            "wordId": "water",
+            "surface": "water"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "do-you-drink-tea",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Trinkst du Tee?",
+        "wordLinks": [
+          {
+            "wordId": "drink",
+            "surface": "Trinkst"
+          },
+          {
+            "wordId": "you",
+            "surface": "du"
+          },
+          {
+            "wordId": "tea",
+            "surface": "Tee"
+          }
+        ]
+      },
+      "el": {
+        "text": "Πίνεις τσάι;",
+        "wordLinks": [
+          {
+            "wordId": "drink",
+            "surface": "Πίνεις"
+          },
+          {
+            "wordId": "tea",
+            "surface": "τσάι"
+          }
+        ]
+      },
+      "en": {
+        "text": "Do you drink tea?",
+        "wordLinks": [
+          {
+            "wordId": "you",
+            "surface": "you"
+          },
+          {
+            "wordId": "drink",
+            "surface": "drink"
+          },
+          {
+            "wordId": "tea",
+            "surface": "tea"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bread-and-cheese",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Wir essen Brot und Käse.",
+        "wordLinks": [
+          {
+            "wordId": "eat",
+            "surface": "essen"
+          },
+          {
+            "wordId": "bread",
+            "surface": "Brot"
+          },
+          {
+            "wordId": "and",
+            "surface": "und"
+          },
+          {
+            "wordId": "cheese",
+            "surface": "Käse"
+          }
+        ]
+      },
+      "el": {
+        "text": "Τρώμε ψωμί και τυρί.",
+        "wordLinks": [
+          {
+            "wordId": "eat",
+            "surface": "Τρώμε"
+          },
+          {
+            "wordId": "bread",
+            "surface": "ψωμί"
+          },
+          {
+            "wordId": "and",
+            "surface": "και"
+          },
+          {
+            "wordId": "cheese",
+            "surface": "τυρί"
+          }
+        ]
+      },
+      "en": {
+        "text": "We eat bread and cheese.",
+        "wordLinks": [
+          {
+            "wordId": "eat",
+            "surface": "eat"
+          },
+          {
+            "wordId": "bread",
+            "surface": "bread"
+          },
+          {
+            "wordId": "and",
+            "surface": "and"
+          },
+          {
+            "wordId": "cheese",
+            "surface": "cheese"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "the-apple-is-good",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Der Apfel ist gut.",
+        "wordLinks": [
+          {
+            "wordId": "apple",
+            "surface": "Apfel"
+          },
+          {
+            "wordId": "be",
+            "surface": "ist"
+          },
+          {
+            "wordId": "good",
+            "surface": "gut"
+          }
+        ]
+      },
+      "el": {
+        "text": "Το μήλο είναι καλό.",
+        "wordLinks": [
+          {
+            "wordId": "apple",
+            "surface": "μήλο"
+          },
+          {
+            "wordId": "be",
+            "surface": "είναι"
+          },
+          {
+            "wordId": "good",
+            "surface": "καλό"
+          }
+        ]
+      },
+      "en": {
+        "text": "The apple is good.",
+        "wordLinks": [
+          {
+            "wordId": "apple",
+            "surface": "apple"
+          },
+          {
+            "wordId": "be",
+            "surface": "is"
+          },
+          {
+            "wordId": "good",
+            "surface": "good"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "the-wine-is-very-good",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Der Wein ist sehr gut.",
+        "wordLinks": [
+          {
+            "wordId": "wine",
+            "surface": "Wein"
+          },
+          {
+            "wordId": "be",
+            "surface": "ist"
+          },
+          {
+            "wordId": "good",
+            "surface": "gut"
+          }
+        ]
+      },
+      "el": {
+        "text": "Το κρασί είναι πολύ καλό.",
+        "wordLinks": [
+          {
+            "wordId": "wine",
+            "surface": "κρασί"
+          },
+          {
+            "wordId": "be",
+            "surface": "είναι"
+          },
+          {
+            "wordId": "good",
+            "surface": "καλό"
+          }
+        ]
+      },
+      "en": {
+        "text": "The wine is very good.",
+        "wordLinks": [
+          {
+            "wordId": "wine",
+            "surface": "wine"
+          },
+          {
+            "wordId": "be",
+            "surface": "is"
+          },
+          {
+            "wordId": "good",
+            "surface": "good"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "the-house-is-big",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Das Haus ist groß.",
+        "wordLinks": [
+          {
+            "wordId": "house",
+            "surface": "Haus"
+          },
+          {
+            "wordId": "be",
+            "surface": "ist"
+          },
+          {
+            "wordId": "big",
+            "surface": "groß"
+          }
+        ]
+      },
+      "el": {
+        "text": "Το σπίτι είναι μεγάλο.",
+        "wordLinks": [
+          {
+            "wordId": "house",
+            "surface": "σπίτι"
+          },
+          {
+            "wordId": "be",
+            "surface": "είναι"
+          },
+          {
+            "wordId": "big",
+            "surface": "μεγάλο"
+          }
+        ]
+      },
+      "en": {
+        "text": "The house is big.",
+        "wordLinks": [
+          {
+            "wordId": "house",
+            "surface": "house"
+          },
+          {
+            "wordId": "be",
+            "surface": "is"
+          },
+          {
+            "wordId": "big",
+            "surface": "big"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "the-city-is-by-the-sea",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Die Stadt ist am Meer.",
+        "wordLinks": [
+          {
+            "wordId": "city",
+            "surface": "Stadt"
+          },
+          {
+            "wordId": "be",
+            "surface": "ist"
+          },
+          {
+            "wordId": "sea",
+            "surface": "Meer"
+          }
+        ]
+      },
+      "el": {
+        "text": "Η πόλη είναι δίπλα στη θάλασσα.",
+        "wordLinks": [
+          {
+            "wordId": "city",
+            "surface": "πόλη"
+          },
+          {
+            "wordId": "be",
+            "surface": "είναι"
+          },
+          {
+            "wordId": "sea",
+            "surface": "θάλασσα"
+          }
+        ]
+      },
+      "en": {
+        "text": "The city is by the sea.",
+        "wordLinks": [
+          {
+            "wordId": "city",
+            "surface": "city"
+          },
+          {
+            "wordId": "be",
+            "surface": "is"
+          },
+          {
+            "wordId": "sea",
+            "surface": "sea"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "here-is-a-book",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Hier ist ein Buch.",
+        "wordLinks": [
+          {
+            "wordId": "here",
+            "surface": "Hier"
+          },
+          {
+            "wordId": "be",
+            "surface": "ist"
+          },
+          {
+            "wordId": "book",
+            "surface": "Buch"
+          }
+        ]
+      },
+      "el": {
+        "text": "Εδώ είναι ένα βιβλίο.",
+        "wordLinks": [
+          {
+            "wordId": "here",
+            "surface": "Εδώ"
+          },
+          {
+            "wordId": "be",
+            "surface": "είναι"
+          },
+          {
+            "wordId": "book",
+            "surface": "βιβλίο"
+          }
+        ]
+      },
+      "en": {
+        "text": "Here is a book.",
+        "wordLinks": [
+          {
+            "wordId": "here",
+            "surface": "Here"
+          },
+          {
+            "wordId": "be",
+            "surface": "is"
+          },
+          {
+            "wordId": "book",
+            "surface": "book"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "i-live-in-thessaloniki",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Ich wohne in Thessaloniki.",
+        "wordLinks": [
+          {
+            "wordId": "i",
+            "surface": "Ich"
+          },
+          {
+            "wordId": "live",
+            "surface": "wohne"
+          }
+        ]
+      },
+      "el": {
+        "text": "Μένω στη Θεσσαλονίκη.",
+        "wordLinks": [
+          {
+            "wordId": "live",
+            "surface": "Μένω"
+          }
+        ]
+      },
+      "en": {
+        "text": "I live in Thessaloniki.",
+        "wordLinks": [
+          {
+            "wordId": "i",
+            "surface": "I"
+          },
+          {
+            "wordId": "live",
+            "surface": "live"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "anna-is-at-the-cafe",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Anna ist im Café.",
+        "wordLinks": [
+          {
+            "wordId": "be",
+            "surface": "ist"
+          }
+        ]
+      },
+      "el": {
+        "text": "Η Άννα είναι στην καφετέρια.",
+        "wordLinks": [
+          {
+            "wordId": "be",
+            "surface": "είναι"
+          }
+        ]
+      },
+      "en": {
+        "text": "Anna is at the café.",
+        "wordLinks": [
+          {
+            "wordId": "be",
+            "surface": "is"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "she-is-here-with-nikos",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Sie ist mit Nikos hier.",
+        "wordLinks": [
+          {
+            "wordId": "be",
+            "surface": "ist"
+          },
+          {
+            "wordId": "here",
+            "surface": "hier"
+          }
+        ]
+      },
+      "el": {
+        "text": "Είναι εδώ με τον Νίκο.",
+        "wordLinks": [
+          {
+            "wordId": "be",
+            "surface": "Είναι"
+          },
+          {
+            "wordId": "here",
+            "surface": "εδώ"
+          }
+        ]
+      },
+      "en": {
+        "text": "She is here with Nikos.",
+        "wordLinks": [
+          {
+            "wordId": "be",
+            "surface": "is"
+          },
+          {
+            "wordId": "here",
+            "surface": "here"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "nikos-drinks-tea",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Nikos trinkt Tee.",
+        "wordLinks": [
+          {
+            "wordId": "drink",
+            "surface": "trinkt"
+          },
+          {
+            "wordId": "tea",
+            "surface": "Tee"
+          }
+        ]
+      },
+      "el": {
+        "text": "Ο Νίκος πίνει τσάι.",
+        "wordLinks": [
+          {
+            "wordId": "drink",
+            "surface": "πίνει"
+          },
+          {
+            "wordId": "tea",
+            "surface": "τσάι"
+          }
+        ]
+      },
+      "en": {
+        "text": "Nikos drinks tea.",
+        "wordLinks": [
+          {
+            "wordId": "drink",
+            "surface": "drinks"
+          },
+          {
+            "wordId": "tea",
+            "surface": "tea"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "the-coffee-is-very-good",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Der Kaffee ist sehr gut.",
+        "wordLinks": [
+          {
+            "wordId": "coffee",
+            "surface": "Kaffee"
+          },
+          {
+            "wordId": "be",
+            "surface": "ist"
+          },
+          {
+            "wordId": "good",
+            "surface": "gut"
+          }
+        ]
+      },
+      "el": {
+        "text": "Ο καφές είναι πολύ καλός.",
+        "wordLinks": [
+          {
+            "wordId": "coffee",
+            "surface": "καφές"
+          },
+          {
+            "wordId": "be",
+            "surface": "είναι"
+          },
+          {
+            "wordId": "good",
+            "surface": "καλός"
+          }
+        ]
+      },
+      "en": {
+        "text": "The coffee is very good.",
+        "wordLinks": [
+          {
+            "wordId": "coffee",
+            "surface": "coffee"
+          },
+          {
+            "wordId": "be",
+            "surface": "is"
+          },
+          {
+            "wordId": "good",
+            "surface": "good"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "we-have-a-cat",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Wir haben eine Katze.",
+        "wordLinks": [
+          {
+            "wordId": "have",
+            "surface": "haben"
+          },
+          {
+            "wordId": "cat",
+            "surface": "Katze"
+          }
+        ]
+      },
+      "el": {
+        "text": "Έχουμε μια γάτα.",
+        "wordLinks": [
+          {
+            "wordId": "have",
+            "surface": "Έχουμε"
+          },
+          {
+            "wordId": "cat",
+            "surface": "γάτα"
+          }
+        ]
+      },
+      "en": {
+        "text": "We have a cat.",
+        "wordLinks": [
+          {
+            "wordId": "have",
+            "surface": "have"
+          },
+          {
+            "wordId": "cat",
+            "surface": "cat"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "the-cat-is-small",
+    "level": "A0",
+    "versions": {
+      "de": {
+        "text": "Die Katze ist klein.",
+        "wordLinks": [
+          {
+            "wordId": "cat",
+            "surface": "Katze"
+          },
+          {
+            "wordId": "be",
+            "surface": "ist"
+          },
+          {
+            "wordId": "small",
+            "surface": "klein"
+          }
+        ]
+      },
+      "el": {
+        "text": "Η γάτα είναι μικρή.",
+        "wordLinks": [
+          {
+            "wordId": "cat",
+            "surface": "γάτα"
+          },
+          {
+            "wordId": "be",
+            "surface": "είναι"
+          },
+          {
+            "wordId": "small",
+            "surface": "μικρή"
+          }
+        ]
+      },
+      "en": {
+        "text": "The cat is small.",
+        "wordLinks": [
+          {
+            "wordId": "cat",
+            "surface": "cat"
+          },
+          {
+            "wordId": "be",
+            "surface": "is"
+          },
+          {
+            "wordId": "small",
+            "surface": "small"
+          }
+        ]
+      }
+    }
+  }
+]

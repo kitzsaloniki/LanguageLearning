@@ -1,0 +1,34 @@
+[
+  {
+    "id": "greetings",
+    "name": {
+      "de": "Begrüßung",
+      "el": "Χαιρετισμοί",
+      "en": "Greetings"
+    }
+  },
+  {
+    "id": "people",
+    "name": {
+      "de": "Menschen und Familie",
+      "el": "Άνθρωποι και οικογένεια",
+      "en": "People and family"
+    }
+  },
+  {
+    "id": "food-drink",
+    "name": {
+      "de": "Essen und Trinken",
+      "el": "Φαγητό και ποτό",
+      "en": "Food and drink"
+    }
+  },
+  {
+    "id": "home-everyday",
+    "name": {
+      "de": "Zuhause und Alltag",
+      "el": "Σπίτι και καθημερινότητα",
+      "en": "Home and everyday life"
+    }
+  }
+]
