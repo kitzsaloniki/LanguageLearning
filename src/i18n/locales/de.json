@@ -13,7 +13,8 @@
     "intro": "Kurze Einheiten von 5 bis 10 Minuten. Keine Serien, kein Druck. Nimm dir Zeit.",
     "sessionTitle": "Heutige Einheit",
     "sessionPlaceholder": "Deine ersten Lesetexte werden gerade vorbereitet.",
-    "methodsTitle": "So lernst du hier"
+    "methodsTitle": "So lernst du hier",
+    "learningSummary": "Du lernst {{language}} · Niveau {{level}}"
   },
   "methods": {
     "label": "Lernmethode",
@@ -41,6 +42,62 @@
       "system": "System",
       "light": "Hell",
       "dark": "Dunkel"
+    },
+    "learning": {
+      "title": "Dein Lernen",
+      "nativeLanguage": "Muttersprache",
+      "targetLanguage": "Lernsprache",
+      "level": "Niveau"
+    }
+  },
+  "languages": {
+    "de": "Deutsch",
+    "el": "Griechisch",
+    "en": "Englisch"
+  },
+  "levels": {
+    "A0": {
+      "name": "Ganz am Anfang",
+      "description": "Du beginnst bei null: erste Laute, Buchstaben und Wörter."
+    },
+    "A1": {
+      "name": "Anfänger",
+      "description": "Du kennst ein paar Wörter und einfache Sätze."
+    },
+    "A2": {
+      "name": "Grundkenntnisse",
+      "description": "Du kommst in einfachen Alltagssituationen zurecht."
+    },
+    "B1": {
+      "name": "Mittelstufe",
+      "description": "Du folgst vertrauten Themen und kannst von deinem Tag erzählen."
+    },
+    "B2": {
+      "name": "Gute Mittelstufe",
+      "description": "Du verstehst längere Texte und sprichst recht flüssig."
+    }
+  },
+  "onboarding": {
+    "progress": "Schritt {{current}} von {{total}}",
+    "back": "Zurück",
+    "next": "Weiter",
+    "finish": "Los geht’s",
+    "changeLater": "Das alles kannst du später in den Einstellungen ändern.",
+    "native": {
+      "title": "Welche Sprache sprichst du am besten?",
+      "description": "Wir nutzen sie für Übersetzungen und um neue Wörter zu erklären."
+    },
+    "target": {
+      "title": "Welche Sprache möchtest du lernen?",
+      "description": "Wähle in Ruhe. Du kannst jederzeit wechseln."
+    },
+    "interface": {
+      "title": "In welcher Sprache soll die App sein?",
+      "description": "Menüs und Erklärungen erscheinen in dieser Sprache. Meist ist das deine Muttersprache."
+    },
+    "level": {
+      "title": "Wo möchtest du anfangen?",
+      "description": "Unsicher? Starte mit A0. Es geht nichts verloren, und du kannst jederzeit aufsteigen."
     }
   }
 }

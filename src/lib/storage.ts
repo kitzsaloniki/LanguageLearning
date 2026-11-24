@@ -7,6 +7,7 @@ const KEY_PREFIX = 'ellinika.'
 export const STORAGE_KEYS = {
   theme: `${KEY_PREFIX}theme`,
   uiLanguage: `${KEY_PREFIX}uiLanguage`,
+  learnerProfile: `${KEY_PREFIX}learnerProfile`,
 } as const
 
 export function readStoredValue(key: string): string | null {

@@ -13,7 +13,8 @@
     "intro": "Short units of 5 to 10 minutes. No streaks, no pressure. Take your time.",
     "sessionTitle": "Today's session",
     "sessionPlaceholder": "Your first reading texts are being prepared.",
-    "methodsTitle": "How you learn here"
+    "methodsTitle": "How you learn here",
+    "learningSummary": "You are learning {{language}} · Level {{level}}"
   },
   "methods": {
     "label": "Learning method",
@@ -41,6 +42,62 @@
       "system": "System",
       "light": "Light",
       "dark": "Dark"
+    },
+    "learning": {
+      "title": "Your learning",
+      "nativeLanguage": "Native language",
+      "targetLanguage": "Learning language",
+      "level": "Level"
+    }
+  },
+  "languages": {
+    "de": "German",
+    "el": "Greek",
+    "en": "English"
+  },
+  "levels": {
+    "A0": {
+      "name": "Absolute beginner",
+      "description": "You start from zero: first sounds, letters and words."
+    },
+    "A1": {
+      "name": "Beginner",
+      "description": "You know a few words and simple phrases."
+    },
+    "A2": {
+      "name": "Elementary",
+      "description": "You get by in simple everyday situations."
+    },
+    "B1": {
+      "name": "Intermediate",
+      "description": "You follow familiar topics and can talk about your day."
+    },
+    "B2": {
+      "name": "Upper intermediate",
+      "description": "You understand longer texts and speak fairly fluently."
+    }
+  },
+  "onboarding": {
+    "progress": "Step {{current}} of {{total}}",
+    "back": "Back",
+    "next": "Continue",
+    "finish": "Start learning",
+    "changeLater": "You can change all of this later in Settings.",
+    "native": {
+      "title": "Which language do you know best?",
+      "description": "We use it for translations and to explain new words."
+    },
+    "target": {
+      "title": "Which language would you like to learn?",
+      "description": "Take your pick. You can switch at any time."
+    },
+    "interface": {
+      "title": "Which language should the app use?",
+      "description": "Menus and explanations appear in this language. Usually that is your native language."
+    },
+    "level": {
+      "title": "Where would you like to start?",
+      "description": "Not sure? Start with A0. Nothing is lost, and you can move up whenever you like."
     }
   }
 }

@@ -42,10 +42,10 @@ src/
   app/            App root and routes
   content/        Language-neutral learning content, loaders and validation
   components/     Shared UI (ui/) and layout (layout/) components
-  features/       Screens grouped by feature (home, settings, ...)
+  features/       Screens grouped by feature (onboarding, home, settings, ...)
   i18n/           i18next setup and locale files (en.json is the reference)
   languages/      Registry of supported languages
-  learning/       Learning domain (methods, later scheduling and content)
+  learning/       Learning domain (learner profile, methods, later scheduling)
   lib/            Infrastructure helpers (storage, Supabase)
   styles/         Design tokens and base styles
   theme/          Light/dark theme handling
