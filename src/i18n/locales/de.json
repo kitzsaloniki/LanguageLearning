@@ -1,0 +1,46 @@
+{
+  "app": {
+    "name": "Ellinika",
+    "tagline": "In Ruhe lernen. Zuerst lesen."
+  },
+  "nav": {
+    "label": "Hauptnavigation",
+    "home": "Heute",
+    "settings": "Einstellungen"
+  },
+  "home": {
+    "greeting": "Willkommen",
+    "intro": "Kurze Einheiten von 5 bis 10 Minuten. Keine Serien, kein Druck. Nimm dir Zeit.",
+    "sessionTitle": "Heutige Einheit",
+    "sessionPlaceholder": "Deine ersten Lesetexte werden gerade vorbereitet.",
+    "methodsTitle": "So lernst du hier"
+  },
+  "methods": {
+    "label": "Lernmethode",
+    "comprehensibleInput": {
+      "name": "Verständlicher Input",
+      "description": "Kurze Texte knapp über deinem Niveau. Du verstehst das meiste und erschließt den Rest aus dem Zusammenhang."
+    },
+    "spacedRepetition": {
+      "name": "Verteilte Wiederholung",
+      "description": "Jedes Wort kommt kurz bevor du es vergessen würdest wieder, in wachsenden Abständen."
+    },
+    "activeRecall": {
+      "name": "Aktives Abrufen",
+      "description": "Erst selbst versuchen, dann die Lösung sehen. Genau das festigt das Gelernte."
+    }
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "interfaceLanguage": {
+      "title": "Sprache der Oberfläche",
+      "description": "Sprache für Menüs und Erklärungen. Deine Lernsprache wählst du getrennt davon."
+    },
+    "appearance": {
+      "title": "Darstellung",
+      "system": "System",
+      "light": "Hell",
+      "dark": "Dunkel"
+    }
+  }
+}

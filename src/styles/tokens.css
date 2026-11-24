@@ -1,0 +1,108 @@
+/*
+ * Design tokens for Ellinika.
+ * Calm, paper-like light theme and a soft, low-glare dark theme.
+ * Components use semantic tokens only (never raw colors).
+ */
+:root {
+  /* Typography: Inter for UI, Literata for reading texts. Both cover Greek. */
+  --font-ui: 'Inter Variable', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-reading: 'Literata Variable', 'Noto Serif', Georgia, serif;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-md: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.375rem;
+  --text-2xl: 1.75rem;
+  --text-3xl: 2.25rem;
+
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+
+  /* Greek has many accents (τόνος) and descenders: give lines room. */
+  --leading-tight: 1.25;
+  --leading-normal: 1.55;
+  --leading-reading: 1.75;
+
+  /* Spacing on a 4px grid. */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+
+  --radius-sm: 0.5rem;
+  --radius-md: 0.875rem;
+  --radius-lg: 1.25rem;
+  --radius-full: 999px;
+
+  --content-max-width: 40rem;
+  --reading-max-width: 34rem;
+  --nav-height: 4rem;
+
+  /* Motion: gentle and short. */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --duration-fast: 150ms;
+  --duration-normal: 250ms;
+  --duration-slow: 400ms;
+}
+
+:root,
+:root[data-theme='light'] {
+  color-scheme: light;
+
+  --color-bg: #f7f4ee;
+  --color-surface: #fffdf9;
+  --color-surface-muted: #efebe3;
+  --color-border: #e3ddd2;
+
+  --color-text: #1f2328;
+  --color-text-muted: #5d636b;
+  --color-text-subtle: #868b92;
+
+  /* Aegean blue as primary, olive as calm secondary, warm sand accent. */
+  --color-primary: #2c5578;
+  --color-primary-hover: #234766;
+  --color-primary-soft: #e2ebf3;
+  --color-on-primary: #ffffff;
+
+  --color-secondary: #5f6f45;
+  --color-secondary-soft: #e8ecdf;
+  --color-accent: #b48a45;
+
+  --color-focus: #3f7cb0;
+
+  --shadow-sm: 0 1px 2px rgb(31 35 40 / 0.05);
+  --shadow-md: 0 4px 16px rgb(31 35 40 / 0.06), 0 1px 3px rgb(31 35 40 / 0.04);
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+
+  --color-bg: #14181d;
+  --color-surface: #1b2027;
+  --color-surface-muted: #232932;
+  --color-border: #2e353f;
+
+  --color-text: #e8e6e1;
+  --color-text-muted: #a8adb4;
+  --color-text-subtle: #7d838b;
+
+  --color-primary: #8fb6d9;
+  --color-primary-hover: #a6c6e3;
+  --color-primary-soft: #223447;
+  --color-on-primary: #0f1a24;
+
+  --color-secondary: #b1c08f;
+  --color-secondary-soft: #283021;
+  --color-accent: #d4ae6c;
+
+  --color-focus: #8fb6d9;
+
+  --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.3);
+  --shadow-md: 0 4px 16px rgb(0 0 0 / 0.35);
+}

@@ -1,0 +1,46 @@
+{
+  "app": {
+    "name": "Ellinika",
+    "tagline": "Learn calmly. Read first."
+  },
+  "nav": {
+    "label": "Main navigation",
+    "home": "Today",
+    "settings": "Settings"
+  },
+  "home": {
+    "greeting": "Welcome",
+    "intro": "Short units of 5 to 10 minutes. No streaks, no pressure. Take your time.",
+    "sessionTitle": "Today's session",
+    "sessionPlaceholder": "Your first reading texts are being prepared.",
+    "methodsTitle": "How you learn here"
+  },
+  "methods": {
+    "label": "Learning method",
+    "comprehensibleInput": {
+      "name": "Comprehensible input",
+      "description": "Short texts just above your level. You understand most of it and pick up the rest from context."
+    },
+    "spacedRepetition": {
+      "name": "Spaced repetition",
+      "description": "Each word comes back right before you would forget it, at growing intervals."
+    },
+    "activeRecall": {
+      "name": "Active recall",
+      "description": "First try to remember on your own, then see the answer. That is what makes it stick."
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "interfaceLanguage": {
+      "title": "Interface language",
+      "description": "Language of menus and explanations. Your learning language is chosen separately."
+    },
+    "appearance": {
+      "title": "Appearance",
+      "system": "System",
+      "light": "Light",
+      "dark": "Dark"
+    }
+  }
+}
