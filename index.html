@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="description" content="Ellinika – calm language learning" />
+    <meta name="theme-color" content="#f7f4ee" />
+    <link rel="icon" href="/favicon.ico" sizes="48x48" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon-180x180.png" />
+    <title>Ellinika</title>
+    <script>
+      // Apply the stored theme before first paint to avoid a light/dark flash.
+      try {
+        var preference = localStorage.getItem('ellinika.theme') || 'system'
+        var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
+        var isDark = preference === 'dark' || (preference === 'system' && prefersDark)
+        document.documentElement.dataset.theme = isDark ? 'dark' : 'light'
+      } catch (error) {
+        document.documentElement.dataset.theme = 'light'
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
